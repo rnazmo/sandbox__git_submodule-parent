@@ -37,3 +37,7 @@ git clone --recursive git@github.com:rnazmo/sandbox__git_submodule-parent.git
 - [Working with submodules - The GitHub Blog](https://github.blog/2016-02-01-working-with-submodules/)
 
 - [git submodule 覚書 - やる気がストロング ZERO](https://yaruki-strong-zero.hatenablog.jp/entry/git_submodule)
+
+## TODO
+
+- child 側が private repository の場合どうなる？ -> sandbox\_\_git_submodule-child-private を作って試してみる.
