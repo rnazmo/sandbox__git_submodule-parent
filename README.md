@@ -17,6 +17,7 @@ Child repo: https://github.com/rnazmo/sandbox__git_submodule-child-public
 - `git submodule add`
 - `git submodule update`
 - `git submodule update --remote`
+- `git submodule update --remote <child-repo-name>`
 - `git submodule init`
 - `git clone --resursive <remote-url>`
 
