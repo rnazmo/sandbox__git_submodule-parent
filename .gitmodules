@@ -1,3 +1,6 @@
 [submodule "sandbox__git_submodule-child-public"]
 	path = sandbox__git_submodule-child-public
 	url = https://github.com/rnazmo/sandbox__git_submodule-child-public.git
+[submodule "sandbox__git_submodule-child-private"]
+	path = sandbox__git_submodule-child-private
+	url = https://github.com/rnazmo/sandbox__git_submodule-child-private.git
