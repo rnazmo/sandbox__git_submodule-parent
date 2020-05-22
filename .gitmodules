@@ -1,0 +1,3 @@
+[submodule "sandbox__git_submodule-child"]
+	path = sandbox__git_submodule-child
+	url = https://github.com/rnazmo/sandbox__git_submodule-child.git
