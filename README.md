@@ -25,7 +25,7 @@ Child repo:
 - `git submodule init`
 - `git clone --resursive <remote-url>`
 
-### How to Clone sandbox\_\_git_submodule-parent
+### How to clone sandbox\_\_git_submodule-parent
 
 ```sh
 git clone git@github.com:rnazmo/sandbox__git_submodule-parent.git
